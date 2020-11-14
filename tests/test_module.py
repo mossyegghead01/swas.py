@@ -1,4 +1,4 @@
-import swas
+import info
 
 def test_modules():
-  assert swas.yt()
+  assert info.yt()
