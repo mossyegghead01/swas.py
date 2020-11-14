@@ -1,4 +1,4 @@
-import info
+from swas import info
 
-def test_modules():
+def test_module():
   assert info.yt()
