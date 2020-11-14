@@ -1,3 +1,3 @@
 from setuptools import setup, find_packages
 
-setup(name="PACKAGENAME", packages=find_packages())
+setup(name="swas", packages=find_packages(include=['swas']), version=0.0.1, description='Joke module made for a discord user', author='mossy the mad guy', license='MIT', install_requires=[], setup_requires=['pytest-runner'], tests_require=['pytest'], test_suite='tests')
