@@ -1,2 +1,2 @@
 # swas.py
-this is just a joke
+this is just a joke module
