@@ -1,4 +1,2 @@
-class discordinfo():
-  def __init__(self):
-    self.name = "Swas.py"
-    self.id = 556119013298667520
+def yt():
+  return "https://www.youtube.com/channel/UC2ITRZ4_Di-KMHSIylTQbBA"
