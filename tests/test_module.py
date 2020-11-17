@@ -5,3 +5,4 @@ def test_module():
   j = info.userinfo()
   assert j.name
   assert j.id
+  assert j.discriminator
