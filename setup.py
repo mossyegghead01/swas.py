@@ -9,6 +9,7 @@ setup(
     version='0.0.3',
     description='a joke library made for a discord user',
     long_description=long_description,
+    long_description_content_type="text/markdown",
     author='mossy the made guy',
     license='MIT',
     install_requires=[],
