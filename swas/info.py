@@ -4,4 +4,5 @@ def yt():
 class userinfo():
   def __init__(self):
     self.name = "Swas.py"
-    self.id = 556119013298667520
+    self.discriminator = 7370
+    self.id = 556119013298667520    
