@@ -1,3 +1,4 @@
+import swas
 from swas import info
 
 def test_module():
