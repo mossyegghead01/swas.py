@@ -10,6 +10,7 @@ setup(
     description='a joke library made for a discord user',
     long_description=long_description,
     long_description_content_type="text/markdown",
+    url="https://github.com/mossyegghead01/swas.py",
     author='mossy the made guy',
     license='MIT',
     install_requires=[],
