@@ -1,3 +1,5 @@
+from .info import *
+
 __title__ = 'swas.py'
 __author__ = 'mossyegghead01, distinctnott'
 __license__ = 'MIT'
