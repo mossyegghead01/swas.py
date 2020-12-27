@@ -8,3 +8,4 @@ def test_module():
   assert j.discriminator
   assert swas.__version__
   assert swas.__license__
+  assert j.wiki
