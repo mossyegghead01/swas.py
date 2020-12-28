@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setup(
     name='swas.py',
     packages=find_packages(include=['swas']),
-    version='0.0.4',
+    version='0.0.5',
     description='a joke library made for a discord user',
     long_description=long_description,
     long_description_content_type="text/markdown",
