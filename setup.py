@@ -11,7 +11,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/mossyegghead01/swas.py",
-    author='mossy the made guy',
+    author='mossy the made guy, DistinctNoot, Swas.py',
     license='MIT',
     install_requires=[],
     setup_requires=['pytest-runner'],
